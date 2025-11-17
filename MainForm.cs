@@ -12,7 +12,7 @@ namespace DiemDanhTool
         private const int ROW_GIO = 6;
 
         // 🔥 Link Web App của bạn
-        private string webAppUrl = "https://script.google.com/macros/s/AKfycby1am3jIyPi09zln63YkyWDlYITu4Tg8BKTYR76Q9b811Fyx4G1rf3X1BxY7SCbTXtOIg/exec";
+        private string webAppUrl = "https://script.google.com/macros/s/AKfycbx_8a70IdIY7lCRfzuh2FouyMDoTHyTGjS2UnmT6z_GSL9cxOrUNS2qrgADaFeW6uUmDA/exec?action=getEmployees";
 
         private GoogleSheetHelper helper;
 
